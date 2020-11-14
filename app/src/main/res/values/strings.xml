@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sedra</string>
+    <string-array name="liste">
+        <item>Java</item>
+        <item>PHP</item>
+        <item>HTML</item>
+        <item>C</item>
+        <item>Pascal</item>
+        <item>Ionic</item>
+        <item>Javascript</item>
+        <item>C#</item>
+        <item>Ruby</item>
+        <item>CSS</item>
+        <item>Symfony</item>
+        <item>Laravel</item>
+        <item>Angular</item>
+    </string-array>
+</resources>
